@@ -6,3 +6,5 @@ SHIFT_LEVEL = (8 – FLOOR(LOG2(DELTA_VALUE +1)))
 TEMP_PIXEL = (CURRENT_PIXEL_VALUE - MIN_PIXEL_VALUE) << SHIFT_LEVEL 
 NEW_PIXEL_VALUE = MIN( 255 , TEMP_PIXEL)
 ```
+
+![Before and After](/images/before_and_after.png)
