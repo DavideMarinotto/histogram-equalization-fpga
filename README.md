@@ -8,3 +8,8 @@ NEW_PIXEL_VALUE = MIN( 255 , TEMP_PIXEL)
 ```
 
 ![Before and After](/images/before_and_after.png)
+
+### Technologies used
+- **IDE**: [Vivado](https://www.xilinx.com/products/design-tools/vivado.html)
+- **Language**: VHDL
+- **FPGA**: Xilinx Family: Artix-7 - Model: xc7a200t fbg484-1
